@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: pandata_curated
+    database: fulfillment-dwh-production
+    description: pandata_curated
+    tables:
+      - name: pd_orders
+        description: Table containing orders
+        columns:
+          - name: uuid
+            description: Order identifier
+      - name: pd_vendors
+      - name: pd_vendors_agg_business_types
