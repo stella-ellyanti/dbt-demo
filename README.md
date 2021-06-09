@@ -1,7 +1,7 @@
-Welcome to your new dbt project!
+dbt-demo
 
-dbt installation: https://docs.getdbt.com/dbt-cli/installation
-Configure dbt profile: https://docs.getdbt.com/dbt-cli/configure-your-profile
+- dbt installation: https://docs.getdbt.com/dbt-cli/installation
+- Configure dbt profile: https://docs.getdbt.com/dbt-cli/configure-your-profile
 
 ### Using the starter project
 
